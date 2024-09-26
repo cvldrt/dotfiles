@@ -1,0 +1,20 @@
+{
+    "suggest.floatConfig": {
+        "border": true
+    },
+    "diagnostic.floatConfig": {
+        "border": true
+    },
+    "signature.floatConfig": {
+        "border": true
+    },
+    "hover.floatConfig": {
+        "border": true
+    },
+    "clangd.semanticHighlighting": true,
+    "coc.preferences.semanticTokensHighlights": false,
+    "clangd.fallbackFlags": [ "-std=c++2b" ],
+    "suggest.noselect": true,
+    "pyright.inlayHints.variableTypes": false,
+    "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/17.0.3/clangd_17.0.3/bin/clangd"
+}
